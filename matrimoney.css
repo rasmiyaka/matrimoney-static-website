@@ -1,0 +1,169 @@
+.header{
+    background-color: #e3dacb ;
+    height: 150px;
+    width: 100%;
+
+}
+body{
+    margin: 0;
+}
+.left-section
+{
+    background-color:#e3dacb ;
+    width: 30%;
+    height: 600px;
+    float: left;
+}
+.para{
+    color: #777;
+    margin-top: 0px;
+    margin-left: 89px;
+    padding-top: 23px
+}
+.image{
+    margin-left: 82px;
+    margin-top: -11px;
+}
+.logo{
+    width: 50%;
+    float: left;
+    
+    
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.para1{
+    
+    margin-left: 126px;
+    font-size: 19px;
+    font-weight: bold;
+    padding-top: 31px;
+}
+
+
+
+.button{
+    color: #ff9902;
+    text-decoration: none;
+    font-size: 18px;
+    background-color: #e3dacb;
+    border-color: #ff9902;
+    text-align: center;
+    margin-top: 52px;
+    width: 117px;
+    padding: 3px 26px;
+    border-radius: 5px;
+    margin-left: 13px;
+    
+}
+.main-body
+{
+    background-color: #e3dacb ;
+    width: 70%;
+    height: 600px;
+    float: left;
+}
+.para2{
+    
+    padding-top: 93px;
+    margin-top: 0px;
+    font-weight: bold;
+    font-size: 40px;
+    padding-left: 61px;
+}
+
+.para3{
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 56px;
+
+    margin-top: -12px;
+}
+.body-button{
+    padding: 46px 20px;
+    margin-left: 672px;
+    border-radius: 10px;
+    border-color: aliceblue;
+    background-color: #ff7c0b;
+    margin-top: -49px;
+}
+
+
+
+
+
+
+.image1{
+    margin-top: 53px;
+    margin-left: 15px;
+}
+.form-table{
+    background-color: #fff;
+    width: 700px;
+    height: 100px;
+    margin-left: 60px;
+    margin-top: 17px;
+    border-radius: 10px;
+   justify-content: center;
+   display: flex;
+    
+}
+    
+.row1{
+    font-size: 18px;
+    font-weight: bold;
+
+    display: flex;
+    padding-left: 110px ;
+    padding-top: 10px;
+}
+.row2{
+    display: flex;
+    position: absolute;
+    top: 450px;
+    left: 150px;
+    font-size: 15px;
+    color: #999999;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 195px;
+    border: cyan;
+}
+.name{
+    position: absolute;
+    top: 450px;
+    font-size: 15px;
+    width: 155px;
+    left: 434px;
+    border: cyan;
+}
+.number{
+    position: absolute;
+    top: 450px;
+    font-size: 15px;
+    width: 155px;
+    color: #999999;
+    border: cyan;
+    left: 603px;
+
+}
+.para4{
+    margin-left: 66px;
+}
+.image2{
+    rotate: -16deg;
+    width: 220px;
+    border: 5px solid #fff;
+}
+.image3{
+    rotate: -17deg;
+    width: 220px;
+    border: 5px solid #fff;
+    margin-top: 21px;
+}
+.link-login{
+    color: #ff7c0b;
+    text-decoration: none
+}

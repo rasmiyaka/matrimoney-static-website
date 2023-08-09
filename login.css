@@ -1,0 +1,88 @@
+.header{
+    background-color: #e3dacb ;
+    height: 900px;
+    width: 100%;
+    float: left;
+
+}
+body{
+    margin: 0;
+}
+.para{
+    color: #777;
+    margin-top: 0px;
+    margin-left: 89px;
+    padding-top: 23px
+}
+.image{
+    margin-left: 82px;
+    margin-top: -11px;
+    
+}
+.registerfree{
+    display: flex;
+    display: flex;
+    margin-top: -45px;
+    margin-left: 315px;
+    padding: 13px 21px;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-size: 18px;
+    background-color: #ff9902;
+}
+.link-login{
+    color: white;
+    text-decoration: none
+}
+
+    
+
+.logo{
+    width: 50%;
+    float: left;
+    
+}
+.para1{
+    margin-left: 32px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.mobile{
+    margin-left: 31px;
+    font-weight: bold;
+    font-size: 19px;
+}
+.mobile-text{
+    margin-left: 32px;
+    width: 300px;
+    height: 30px;
+    border-color:#ff9902;
+    border-radius: 11px;
+}
+.password{
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.password-text{
+    margin-left: 31px;
+    width: 300px;
+    height: 30px;
+    border-color:#ff9902;
+    border-radius: 11px;
+}
+.button{
+    background-color: #ff9902;
+    color: #fff;
+    margin-left: 122px;
+    width: 129px;
+    height: 37px;
+    border-color: #ff9902;
+    border-radius: 10px;
+}
+.checkbox{
+    margin-left: 31px;
+    width: 18px;
+}
